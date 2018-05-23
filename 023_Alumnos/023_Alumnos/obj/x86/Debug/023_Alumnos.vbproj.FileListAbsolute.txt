@@ -1,0 +1,10 @@
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\bin\Debug\023_Alumnos.exe
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\bin\Debug\023_Alumnos.pdb
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\bin\Debug\023_Alumnos.xml
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\_023_Alumnos.Resources.resources
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\023_Alumnos.vbproj.GenerateResource.Cache
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\023_Alumnos.exe
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\023_Alumnos.xml
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\023_Alumnos.pdb
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\_023_Alumnos.frmAlumnos.resources
+C:\Users\Kildos\Documents\Kildos 2DAM\Interfaces\VB\023_Alumnos\023_Alumnos\obj\x86\Debug\_023_Alumnos.frmExportar.resources
